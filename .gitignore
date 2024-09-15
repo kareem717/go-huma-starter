@@ -24,8 +24,8 @@ go.work.sum
 # env file
 .env*.local
 
-# air
-.air.toml
+# # air
+# .air.toml
 
 /tmp
 /bin
